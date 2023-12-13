@@ -1,3 +1,40 @@
+▼SQL Exercises
+Introduction
+Retrieve data from tables
+Boolean and Relational Operators
+Wildcard and Special operators
+Aggregate Functions
+Formatting query output
+Query on Multiple Tables
+SQL JOINS
+SUBQUERIES
+FILTERING and SORTING on HR Database
+SUBQUERIES on HR Database
+JOINS on HR Database
+SQL UNION
+SQL VIEW
+SQL User Management
+▼Movie Database
+Introduction
+BASIC QUERIES
+SUBQUERIES
+JOINS
+▼Soccer Database
+Introduction
+BASIC QUERIES
+SUBQUERIES
+JOINS
+▼Hospital Database
+Introduction
+Exercises
+▼Employee Database
+BASIC QUERIES
+SUBQUERIES
+▼AdventureWorks Database
+Exercises
+▼SQL Challenges
+
+********************************************************************************************************************************************************************************
 # SQL
 
 What is Data?
