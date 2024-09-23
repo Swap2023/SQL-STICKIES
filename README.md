@@ -51,7 +51,7 @@ Purpose:
 3. Database will allow multiple users to access the data stored in database from multiple locations.
 4.Database will avoid Security issues on your data and you will be having backup option to restore your organizational data.
 5.Database will provide the feature of data integrity.
-6. Having database will reduce Application development time. 
+6. Having database will reduce Application development time..
 
 Applications that are using Databases in real time:
 1.Railway Ticket Booking Systems
