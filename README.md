@@ -1,4 +1,4 @@
-▼SQL Exercises.
+▼SQL Exercises..
 Introduction
 Retrieve data from tables
 Boolean and Relational Operators
